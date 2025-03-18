@@ -1,12 +1,12 @@
-Pong, 
+Pong
 
-játék hossza állítható, 
+játék hossza állítható
 
-ember vagy gép ellen, 
+ember vagy gép ellen
 
-zöld játékos irányítás nyilakkal, 
+zöld játékos irányítás nyilakkal
 
-piros játékos (ha van) irányítás w/s\n
+piros játékos (ha van) irányítás w/s
 
 
 
