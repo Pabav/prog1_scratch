@@ -1,5 +1,7 @@
 Pong
 
+https://scratch.mit.edu/projects/1148645837
+
 játék hossza állítható
 
 ember vagy gép ellen
